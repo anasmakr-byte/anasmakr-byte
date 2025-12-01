@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Makris Anastasios 👋
 
-<!--
-**anasmakr-byte/anasmakr-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **L2 Network Support Technician** working on:
+- FTTH / VDSL / ADSL / Broadband
+- VoIP and Fixed Wireless Access (FWA)
+- Service level optimization and incident handling
 
-Here are some ideas to get you started:
+In my free time I run a **Proxmox & Ubiquiti homelab** to practice:
+- Network design and VLAN segmentation
+- Virtualization and service hosting (Proxmox, LXCs/VMs)
+- Monitoring & observability (Prometheus, Grafana, Uptime Kuma)
+- Automation & AI (Home Assistant, n8n, local LLMs on GPU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured project
+
+- [home-cluster-lab](https://github.com/anasmakr-byte/home-cluster-lab)  
+  2-node Proxmox cluster with Ubiquiti network, multi-VLAN design, monitoring stack, media services, and a GPU-passthrough AI VM running local LLMs.
+
+## 📫 Where to find me
+
+- **LinkedIn:** <https://www.linkedin.com/in/anastasios-makris-998371398/>
+- **GitHub:** You're already here 🙂
